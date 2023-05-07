@@ -1,4 +1,4 @@
-# PWA JATE
+# JAhWa PWA
 
 ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
