@@ -1,4 +1,4 @@
-# JATE
+# PWA JATE
 
 ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -41,13 +41,3 @@ N/A
 MIT License
 
 For more information go to: [MIT License](https://choosealicense.com/licenses/mit/)
-
-## Questions?
-
-_For any questions, please contact me through the information below:_
-
-GitHub: [DaneCronin](https://github.com/DaneCronin)
-
-Email: DaneCronin@gmail.com
-
-Link to repo on GitHub: https://github.com/DaneCronin/JATE
